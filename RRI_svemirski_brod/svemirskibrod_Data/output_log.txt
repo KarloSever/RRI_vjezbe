@@ -1,0 +1,104 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 440 (ID=0xde0)
+    Vendor:   NVIDIA
+    VRAM:     969 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Karlo\Desktop\Svemirski_brod-master\Svemirski_brod-master\svemirskibrod_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.315346 ms
+Učitavanje razine:Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.992058 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.346631 ms (FindLiveObjects: 0.027478 ms CreateObjectMapping: 0.017215 ms MarkObjects: 0.295315 ms  DeleteObjects: 0.005959 ms)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+praznaformacija
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+praznaformacija
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rezultat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Učitavanje razine:Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.737295 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.304254 ms (FindLiveObjects: 0.026154 ms CreateObjectMapping: 0.016222 ms MarkObjects: 0.217844 ms  DeleteObjects: 0.043370 ms)
+
+Učitavanje razine:Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.401589 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.225128 ms (FindLiveObjects: 0.023837 ms CreateObjectMapping: 0.011918 ms MarkObjects: 0.185068 ms  DeleteObjects: 0.003972 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 156c -> priority: 1 
+  Thread -> id: 17c0 -> priority: 1 

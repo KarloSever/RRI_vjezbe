@@ -1,0 +1,69 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 440 (ID=0xde0)
+    Vendor:   NVIDIA
+    VRAM:     969 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Karlo\Documents\GitHub\RRI_vjezba2_svemirskibrod\svemirskibrod_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on MusicPlayer
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.606688 ms
+Učitavanje razine:Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.465323 ms
+MusicPlayer: Loaded level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MusicPlayer.OnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.286376 ms (FindLiveObjects: 0.034762 ms CreateObjectMapping: 0.015891 ms MarkObjects: 0.230425 ms  DeleteObjects: 0.004634 ms)
+
+Učitavanje razine:Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.948188 ms
+MusicPlayer: Loaded level2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.402913 ms (FindLiveObjects: 0.033438 ms CreateObjectMapping: 0.024830 ms MarkObjects: 0.254262 ms  DeleteObjects: 0.089720 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1858 -> priority: 1 
+  Thread -> id: db8 -> priority: 1 
