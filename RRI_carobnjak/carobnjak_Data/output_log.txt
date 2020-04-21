@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 440 (ID=0xde0)
+    Vendor:   NVIDIA
+    VRAM:     969 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Karlo\Desktop\MEV_izrada_igara-master\MEV_izrada_igara-master\Čarobnjak\carobnjak_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.907632 ms
+Učitavanje skripteGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.280590 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.336699 ms (FindLiveObjects: 0.024830 ms CreateObjectMapping: 0.028472 ms MarkObjects: 0.275451 ms  DeleteObjects: 0.006621 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d80 -> priority: 1 
+  Thread -> id: 1cf8 -> priority: 1 
